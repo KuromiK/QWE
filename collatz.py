@@ -3,5 +3,5 @@ def x2(x):
     return collatz(x)
 
 def x3_1(x):
-    x=x * 3 + 
+    x = 3*x+1
     return collatz(x)
