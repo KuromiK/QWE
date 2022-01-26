@@ -1,4 +1,4 @@
-def X_input()
+def v_input()
 #Андрей
 
 def x2()
